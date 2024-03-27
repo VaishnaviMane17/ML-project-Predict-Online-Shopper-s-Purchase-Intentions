@@ -1,0 +1,2 @@
+Developed machine learning model with 85% accuracy predicting online shopping habits surpassing goals by 5% through optimizing algorithms like logistic regression and presenting model insights.
+Drove 80% improvement in model accuracy by conducting rigorous analysis with metrics like precision, recall, F1 score and hyperparameter tuning, displaying proficiency in Python and machine learning techniques.
